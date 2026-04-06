@@ -1,4 +1,6 @@
 <?php
+ini_set('display_errors', 1);
+error_reporting(E_ALL);
 // Database Configuration
 define('DB_HOST', 'sql12.freesqldatabase.com');
 define('DB_USER', 'sql12822389');
