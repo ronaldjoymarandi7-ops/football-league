@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: football-league
+    runtime: docker
+    plan: free
